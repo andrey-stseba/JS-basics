@@ -3,6 +3,6 @@
 
 .directory
 
-.debug
+debug.log
 
 !.gitignore
